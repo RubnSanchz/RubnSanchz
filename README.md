@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning about implementations of AI in Salesforce<br>🎯 Goals: Keep improving<br>📫 How to reach me: <a href="mailto:rsanchezsd@gmail.com">rsanchezsd@gmail.com</a><br>🎲 Fun fact: I pratice martial arts</p>
+<p align="left">👾 Creating bugs since 2018<br>📚 I'm currently learning about implementations of AI in Salesforce<br>🎯 Goals: Keep improving<br>📫 How to reach me: <a href="mailto:rsanchezsd@gmail.com">rsanchezsd@gmail.com</a><br>🎲 Fun fact: I pratice martial arts</p>
 
 ###
 
@@ -41,6 +41,9 @@
 </div>
 
 ###
+
+<br>
+<br>
 
 ###
 
