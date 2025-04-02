@@ -10,12 +10,12 @@
 
 ###
 
-👾 Creating bugs since 2018<br>
-📚 I'm currently learning about implementations of AI in Salesforce<br>
-💻 I use daily: `.cls`, `.mjs`, `.js`, `.html`, `.css`, `-meta.xml` <br>
-🎯 Goals: Keep improving<br>
-📫 How to reach me: <a href="mailto:rsanchezsd@gmail.com">rsanchezsd@gmail.com</a><br>
-🥋 Fun fact: I pratice martial arts
+👾 Creating bugs since 2018 <br>
+📚 I'm currently learning about implementations of AI in Salesforce <br>
+💻 I use daily: &emsp; `.cls`, `.mjs`, `.js`, `.html`, `.css`, `-meta.xml` <br>
+🎯 Goals: &emsp; Keep improving<br>
+📫 How to reach me: &emsp; <a href="mailto:rsanchezsd@gmail.com">rsanchezsd@gmail.com</a> <br>
+🥋 Fun fact: &emsp; I pratice martial arts
 
 ###
 
